@@ -1,1 +1,9 @@
-/data/ 
+# Ignore datasets (DB files, CSVs, etc.)
+/data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files (Windows/macOS)
+Thumbs.db
+.DS_Store
